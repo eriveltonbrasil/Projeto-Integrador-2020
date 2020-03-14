@@ -1,0 +1,2 @@
+MINI MUNDO - ANÁLISE E MODELAGEM DE DADOS - VENDA DE PASSAGENS DE ÔNIBUS
+Deseja-se fazer um sistema de vendas de passagens de ônibus. Nas realizações das vendas das passagens devem conter: Cadastro do cliente(Nome completo, RG, CPF, endereço, telefone). Itinerário das viagens, o RH da empresa, com cargos, funcionarios etc. Realização do pagamento da passagem com cartão de Crédito/Débito ou à vista, impressão das passagens e o relatório diario das viagens e status atual das poltronas e ônibus. 
